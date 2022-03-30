@@ -58,7 +58,7 @@ host
 .. code:: sh
 
    $ git init
-   $ vim .gitgnore
+   $ vim .gitignore
    $ git add *
    $ git commit -m “first commit”
 
