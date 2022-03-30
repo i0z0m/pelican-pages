@@ -1,0 +1,6 @@
+output/
+*.log
+*.pid
+*.pyc
+*.swp
+__pycache__/
